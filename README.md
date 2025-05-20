@@ -33,7 +33,7 @@
 
 Откройте терминал или командную строку и выполните:
 
-`git clone https://github.com/Annett-a/AISD_Semester_Work_2.git`
+`git clone https://github.com/Annett-a/AISD_Semester_Work2.git`
 
 
 2. "Проваливаемся"
